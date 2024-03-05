@@ -1,0 +1,40 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+	<title>login-svg</title>
+	<style>
+		.s0 { fill: #61a03d } 
+		.s1 { fill: #035c32 } 
+		.s2 { fill: #036939 } 
+		.s3 { fill: #00532c } 
+		.s4 { fill: #02572f } 
+	</style>
+	<g id="Layer_12">
+		<path id="Layer" class="s0" d="m0 0h1000v1000h-1000z"/>
+	</g>
+	<g id="Layer_11">
+		<path id="Layer" class="s1" d="m1000 253.8l-241.9-253.8h-758.1v1000h1000z"/>
+	</g>
+	<g id="Layer_10">
+		<path id="Layer" class="s2" d="m1000 448.2l-468.5-448.2h-531.5v1000h1000z"/>
+	</g>
+	<g id="Layer_9">
+		<path id="Layer" class="s3" d="m1000 604.4l-715.8-604.4h-284.2v1000h1000z"/>
+	</g>
+	<g id="Layer_8">
+		<path id="Layer" class="s1" d="m1000 739.7l-991.3-739.7h-8.7v1000h1000z"/>
+	</g>
+	<g id="Layer_7">
+		<path id="Layer" class="s2" d="m1000 853.5l-1000-654.5v801h1000z"/>
+	</g>
+	<g id="Layer_6">
+		<path id="Layer" class="s3" d="m1000 953.1l-1000-566.8v613.7h1000z"/>
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s4" d="m0 560v440h905.7z"/>
+	</g>
+	<g id="Layer_3">
+		<path id="Layer" class="s1" d="m0 740.7v259.3h721.8c-176.5-64.1-503.8-182.6-721.8-259.3z"/>
+	</g>
+	<g id="Layer_4">
+		<path id="Layer" class="s2" d="m0 908.3v91.7h423.5z"/>
+	</g>
+</svg>
